@@ -11,3 +11,6 @@ branch
 pullしてー
 
 別の人が変更したよ
+mergeしてー
+
+branch2
