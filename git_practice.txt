@@ -11,3 +11,5 @@ branch
 pullしてー
 
 mergeしてー
+
+branch2
